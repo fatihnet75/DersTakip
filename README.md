@@ -1,4 +1,4 @@
-# 📝 NoteTakingApp — Fullstack Not Yönetim Uygulaması
+# 📝 DersTakip — Fullstack Not Yönetim Uygulaması
 
 > **NET 8** backend + **Next.js 14** frontend ile geliştirilmiş, kullanıcı kimlik doğrulaması ve not yönetimi sunan fullstack web uygulaması.
 
@@ -6,7 +6,7 @@
 
 ## 📌 Proje Amacı
 
-NoteTakingApp, kullanıcıların hesap oluşturabildiği, giriş yapabildiği ve kişisel notlarını yönetebileceği tam işlevli bir fullstack uygulamadır. ASP.NET Core Web API backend ile Next.js 14 frontend birlikte çalışır.
+DersTakip, kullanıcıların hesap oluşturabildiği, giriş yapabildiği ve kişisel notlarını yönetebileceği tam işlevli bir fullstack uygulamadır. ASP.NET Core Web API backend ile Next.js 14 frontend birlikte çalışır.
 
 Temel özellikler:
 
@@ -251,7 +251,7 @@ Notes
 ## 📁 Proje Klasör Yapısı
 
 ```
-NoteTakingApp/
+DersNotlarıYönetimSistemi/
 │
 ├── WebApplication1/                  # Backend (.NET 8)
 │   ├── Controllers/
