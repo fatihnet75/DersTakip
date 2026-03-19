@@ -61,8 +61,8 @@ Temel özellikler:
 #### 1. Projeyi Klonlayın
 
 ```bash
-git clone https://github.com/fatihnet75/DersTaki.git
-cd NoteTakingApp
+git clone https://github.com/fatihnet75/DersTakip.git
+cd DerzTakip
 ```
 
 #### 2. Veritabanı Bağlantısını Yapılandırın
@@ -71,7 +71,7 @@ cd NoteTakingApp
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "Server=localhost;Database=NoteTakingDb;Trusted_Connection=True;TrustServerCertificate=True"
+  "DefaultConnection": "Server=localhost;Database=NoteAppDb;Trusted_Connection=True;TrustServerCertificate=True"
 }
 ```
 
