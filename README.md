@@ -61,7 +61,7 @@ Temel özellikler:
 #### 1. Projeyi Klonlayın
 
 ```bash
-git clone https://github.com/kullanici-adi/NoteTakingApp.git
+git clone https://github.com/fatihnet75/DersTaki.git
 cd NoteTakingApp
 ```
 
