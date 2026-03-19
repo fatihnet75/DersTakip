@@ -62,7 +62,7 @@ Temel özellikler:
 
 ```bash
 git clone https://github.com/fatihnet75/DersTakip.git
-cd DerzTakip
+cd DersTakip
 ```
 
 #### 2. Veritabanı Bağlantısını Yapılandırın
